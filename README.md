@@ -2,6 +2,8 @@
 
 Once upon a time, [Jon Gjengset](https://twitter.com/jonhoo) did a [Rust trivia on Twitter](https://twitter.com/jonhoo/status/1532761983606411264). This is the thread, unrolled and cleaned up ([with permission](https://twitter.com/jonhoo/status/1537819805121511424)):
 
+:nerd_face: You can also check out the [keywords thread](keywords.md).
+
 ## Rust Trivia
 
 [`TcpStream`](https://twitter.com/carllerche/status/1532773523667660800)
